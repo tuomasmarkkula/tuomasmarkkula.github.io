@@ -67,7 +67,7 @@ email: ""
 # - Visitors
 ---
 
-Welcome to my personal webpage. I am a doctoral candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/). My research interests are in industrial organization and health economics. I will be on the 2024--2025 academic job market.
+Welcome to my personal webpage. I am a PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/). My research interests are in industrial organization and health economics. I will be on the 2024--2025 academic job market.
 
 ### Research
 #### Work in Progress
