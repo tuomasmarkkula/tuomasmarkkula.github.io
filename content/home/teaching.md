@@ -20,7 +20,7 @@ TA: Spring 2023, 2024
 #### Macroeconomics: Policy, M.Sc. level
 TA: Spring 2024
 
-#### Empirical Industrial Oranization I: Static models, PhD level
+#### Empirical Industrial Organization I: Static models, PhD level
 TA: Spring 2022
 
 #### Econometrics 1, B.Sc. level
@@ -29,5 +29,5 @@ TA: Spring 2022
 #### Econometrics 2, B.Sc. level
 TA: Spring 2022, 2023,
 
-#### Developement Economics I, M.Sc. level
+#### Development Economics I, M.Sc. level
 TA: Fall 2020
