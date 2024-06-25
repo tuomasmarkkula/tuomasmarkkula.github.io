@@ -18,7 +18,7 @@ weight = 120
 TA: Spring 2023, 2024
 
 #### Macroeconomics: Policy, M.Sc. level
-TA: Spring 2023
+TA: Spring 2024
 
 #### Empirical Industrial Oranization I: Static models, PhD level
 TA: Spring 2022
