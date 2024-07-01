@@ -71,9 +71,9 @@ Welcome to my personal webpage. I am a PhD candidate in economics at [Aalto Univ
 
 ### Research
 #### Work in Progress
-- "Resource Allocation, Public and Private Sector Interaction and Waiting Times", JMP
-- "State Dependence in Healthcare Provider Choice"
+- Resource Allocation, Public and Private Sector Interaction and Waiting Times, JMP
+- State Dependence in Healthcare Provider Choice
 
 ### Policy Work
-- "[Competition and regulation in the Finnish ATM industry](https://publications.bof.fi/handle/10024/43595)" with [Tuomas Takalo](https://sites.google.com/site/tuomastakalo/short-bio?authuser=0)
+- [Competition and regulation in the Finnish ATM industry](https://publications.bof.fi/handle/10024/43595) with [Tuomas Takalo](https://sites.google.com/site/tuomastakalo/short-bio?authuser=0)
 
