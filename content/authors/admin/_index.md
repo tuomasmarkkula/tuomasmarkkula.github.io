@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/), under the supervision of [Otto Toivanen](https://www.aalto-econ.fi/toivanen/), [Tanja Saxell](https://sites.google.com/site/tsaxell/) and [Ciprian Domnisoru](https://www.cipriandomnisoru.net/). I work on industrial organization and health economics. Currently, I use administrative data and structural models to study markets in which public and private healthcare providers coexist. **I will be on the 2024--2025 academic job market.**
+bio: I am a PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/). I work on industrial organization and health economics. **I will be on the 2024--2025 academic job market.**
 
 interests:
 - Industrial organization
@@ -67,7 +67,7 @@ email: ""
 # - Visitors
 ---
 
-Welcome to my personal webpage. I am a PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/). My research interests are in industrial organization and health economics. I will be on the 2024--2025 academic job market.
+I am a PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/), under the supervision of [Otto Toivanen](https://www.aalto-econ.fi/toivanen/), [Tanja Saxell](https://sites.google.com/site/tsaxell/) and [Ciprian Domnisoru](https://www.cipriandomnisoru.net/). I work on industrial organization and health economics. Currently, I use administrative data and structural models to study markets in which public and private healthcare providers coexist. **I will be on the 2024--2025 academic job market.**
 
 ### Research
 #### Work in Progress
