@@ -75,7 +75,7 @@ I work on industrial organization and health economics. Currently, I use adminis
 
 ### Research
 #### Work in Progress
-- Resource Allocation, Public and Private Sector Interaction and Waiting Times, JMP
+- Cutting the Queue: Resource Allocation Between Public and Private Healthcare Providers, JMP
 - State Dependence in Healthcare Provider Choice
 
 ### Policy Work
