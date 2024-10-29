@@ -76,7 +76,7 @@ I work on industrial organization and health economics. Currently, I use adminis
 ### Research
 #### Work in Progress
 - Cutting the Queue to the Dentist: Waiting Time, Public-Private Interaction and Consumer Surplus, JMP
-- Who Waits and Why? Priority Setting in Health Care, with Tanja Saxell
+- Who Waits and Why? Priority Setting in Health Care, with [Tanja Saxell](https://sites.google.com/site/tsaxell/)
 - State Dependence in Health Care Provider Choice
 
 ### Policy Work
