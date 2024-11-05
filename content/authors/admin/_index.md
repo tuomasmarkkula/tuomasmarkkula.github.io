@@ -53,9 +53,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,6 +72,8 @@ I am a fifth-year PhD candidate in economics at [Aalto University](https://www.a
 I work on industrial organization and health economics. Currently, I use individual-level administrative data and structural models to study markets with public and private healthcare providers. 
 
 **I will be on the 2024--2025 academic job market.**
+
+Contact information: tuomas.markkula@aalto.fi. Find my [CV]("files/cv.pdf") here.
 
 ### Research
 #### Work in Progress
