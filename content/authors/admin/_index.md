@@ -73,7 +73,7 @@ I work on industrial organization and health economics. Currently, I use individ
 
 **I will be on the 2024--2025 academic job market.**
 
-Contact information: tuomas.markkula@aalto.fi. Find my [CV]("files/cv.pdf") here.
+Contact information: tuomas.markkula@aalto.fi. Find my [CV](https://tuomasmarkkula.github.io/files/cv.pdf) here.
 
 ### Research
 #### Work in Progress
