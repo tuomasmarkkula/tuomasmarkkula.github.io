@@ -84,7 +84,7 @@ Contact information: tuomas.markkula@aalto.fi. Find my [CV](https://tuomasmarkku
 
 #### Work in Progress
 - Who Waits and Why? Priority Setting in Health Care, with [Tanja Saxell](https://sites.google.com/site/tsaxell/)
-- State Dependence in Health Care Provider Choice
+- State Dependence in Health Care Provider Choice: Evidence from Dental Care
 
 ### Policy Work
 - [Competition and regulation in the Finnish ATM industry](https://publications.bof.fi/handle/10024/43595) (2021), with [Tuomas Takalo](https://sites.google.com/site/tuomastakalo/short-bio?authuser=0) in BoF Economic Review
