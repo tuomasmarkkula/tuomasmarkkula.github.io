@@ -84,6 +84,7 @@ Cutting the Queue to the Dentist: Waiting Time, Public-Private Interaction and C
 
 #### Work in Progress
 Who Waits and Why? Priority Setting in Health Care, with [Tanja Saxell](https://sites.google.com/site/tsaxell/)
+
 State Dependence in Health Care Provider Choice
 
 ### Policy Work
