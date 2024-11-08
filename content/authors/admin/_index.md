@@ -78,7 +78,7 @@ Contact information: tuomas.markkula@aalto.fi. Find my [CV](https://tuomasmarkku
 ### Research
 
 #### Job Market Paper
-- Cutting the Queue to the Dentist: Waiting Time, Public-Private Interaction and Consumer Surplus [paper](https://tuomasmarkkula.github.io/files/markkula_JMP.pdf)
+- Cutting the Queue to the Dentist: Waiting Time, Public-Private Interaction and Consumer Surplus [(paper)](https://tuomasmarkkula.github.io/files/markkula_JMP.pdf)
   
   <sub>In industries where private and public production coexist, public production can incentivize private competition and address distributional concerns. I study how increasing public healthcare capacity affects waiting times, private practices' prices, and the distribution of consumer surplus when consumers can wait for affordable public services or pay more for private alternatives. Using individual-level visit data on the Finnish dental care industry, I build a structural model that introduces capacity-constrained public producers into a framework with consumer demand, and price-setting private producers. In counterfactual, I increase the number of dentists in public practices by 20\%. This decreases waiting times at public practices on average by 5\%, or 1.5 days, but does not affect private practices' prices as consumers do not switch from private to public practices. The increase in capacity benefits middle-income and younger consumers the most, as they gain the most from lower waiting times.<sub/>
 
