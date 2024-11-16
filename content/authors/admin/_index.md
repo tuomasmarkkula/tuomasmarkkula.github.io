@@ -82,9 +82,11 @@ Contact information: tuomas.markkula@aalto.fi. Find my [CV](https://tuomasmarkku
   
   <sub>In industries where private and public production coexist, public production can incentivize private competition and address distributional concerns. Using a structural model that incorporates affordable but capacity-constrained public healthcare producers into a framework with price-setting private producers and consumer demand, I examine how increasing public production's capacity affects waiting times, private practices' prices, and the distribution of consumer surplus. I estimate the model using consumer-level visit data on the Finnish dental care industry. In the counterfactual simulation, I increase the number of dentists in public practices by 20\%. This reduces waiting times at public practices on average by 5\%, or 1.5 days, but does not affect private practice prices as consumers do not switch from private to public practices. The increase in capacity most benefits middle-income and younger consumers, as they gain the most from shorter public practice waiting times.<sub/>
 
+#### Working Papers
+- State Dependence in Health Care Provider Choice: Evidence from Dental Care [(paper)](https://tuomasmarkkula.github.io/files/markkula_state_dependence.pdf)
+
 #### Work in Progress
 - Who Waits and Why? Priority Setting in Health Care, with [Tanja Saxell](https://sites.google.com/site/tsaxell/)
-- State Dependence in Health Care Provider Choice: Evidence from Dental Care
 
 ### Policy Work
 - [Competition and regulation in the Finnish ATM industry](https://publications.bof.fi/handle/10024/43595) (2021), with [Tuomas Takalo](https://sites.google.com/site/tuomastakalo/short-bio?authuser=0) in BoF Economic Review
