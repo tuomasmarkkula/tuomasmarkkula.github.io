@@ -29,5 +29,11 @@ TA: Spring 2022
 #### Econometrics 2, B.Sc. level
 TA: Spring 2022, 2023
 
+#### Empirical Industrial Economics, M.Sc. level
+TA: Spring 2022
+
 #### Development Economics I, M.Sc. level
 TA: Fall 2020
+
+#### Basics in Economics, B.Sc. level
+TA: Fall 2019
