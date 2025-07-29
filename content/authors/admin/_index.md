@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/). I work on industrial organization, health economics, and public economics. I will be on the 2024--2025 academic job market.
+bio: I am a PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/). I work on industrial organization, health economics, and public economics.
 
 interests:
 - Industrial organization
@@ -72,7 +72,7 @@ I am a fifth-year PhD candidate in economics at [Aalto University](https://www.a
 
 I work on industrial organization, health economics, and public economics. Currently, I use individual-level administrative data and structural models to study markets with public and private healthcare providers. 
 
-**I am on the 2024--2025 academic job market.**
+I will be joining the University of Hamburg as a Postdoctoral Researcher in the autumn of 2025.
 
 Contact information: tuomas.markkula@aalto.fi. Find my [CV](https://tuomasmarkkula.github.io/files/cv.pdf) here.
 
