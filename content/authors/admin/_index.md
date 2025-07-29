@@ -70,9 +70,9 @@ email: ""
 
 I am a fifth-year PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/), under the supervision of [Otto Toivanen](https://www.aalto-econ.fi/toivanen/), [Tanja Saxell](https://sites.google.com/site/tsaxell/) and [Ciprian Domnisoru](https://www.cipriandomnisoru.net/). 
 
-I work on industrial organization, health economics, and public economics. Currently, I use individual-level administrative data and structural models to study markets with public and private healthcare providers. 
-
 I will be joining the University of Hamburg as a Postdoctoral Researcher in the autumn of 2025.
+
+I work on industrial organization, health economics, and public economics. Currently, I use individual-level administrative data and structural models to study markets with public and private healthcare providers. 
 
 Contact information: tuomas.markkula@aalto.fi. Find my [CV](https://tuomasmarkkula.github.io/files/cv.pdf) here.
 
