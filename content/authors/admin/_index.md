@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Researcher at the [University of Hamburg](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl.html) and [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de/en.html). I work on industrial organization, health economics, and public economics.
+bio: I am a Postdoctoral Researcher at the [University of Hamburg](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl.html) and the [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de/en.html). I work on industrial organization, health economics, and public economics.
 
 interests:
 - Industrial organization
