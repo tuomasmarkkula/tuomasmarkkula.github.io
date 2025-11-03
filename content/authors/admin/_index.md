@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Aalto University and Helsinki GSE
+- name: University of Hamburg and Hamburg Center for Health Economics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/). I work on industrial organization, health economics, and public economics.
+bio: I am a Postdoctoral Researcher at [University of Hamburg](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl.html) and [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de/en.html). I work on industrial organization, health economics, and public economics.
 
 interests:
 - Industrial organization
@@ -68,13 +68,11 @@ email: ""
 # - Visitors
 ---
 
-I am a fifth-year PhD candidate in economics at [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/), under the supervision of [Otto Toivanen](https://www.aalto-econ.fi/toivanen/), [Tanja Saxell](https://sites.google.com/site/tsaxell/) and [Ciprian Domnisoru](https://www.cipriandomnisoru.net/). 
-
-I will be joining the University of Hamburg as a Postdoctoral Researcher in the autumn of 2025.
+I am a Postdoctoral Researcher at [University of Hamburg](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl.html) and [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de/en.html). I work on industrial organization, health economics, and public economics. I obtained my PhD from [Aalto University](https://www.aalto.fi/en/department-of-economics) and [Helsinki GSE](https://www.helsinkigse.fi/), under the supervision of [Otto Toivanen](https://www.aalto-econ.fi/toivanen/), [Tanja Saxell](https://sites.google.com/site/tsaxell/) and [Ciprian Domnisoru](https://www.cipriandomnisoru.net/). 
 
 I work on industrial organization, health economics, and public economics. Currently, I use individual-level administrative data and structural models to study markets with public and private healthcare providers. 
 
-Contact information: tuomas.markkula@aalto.fi. Find my [CV](https://tuomasmarkkula.github.io/files/cv.pdf) here.
+Contact information: lauri.markkula@uni-hamburg.de. Find my [CV](https://tuomasmarkkula.github.io/files/cv.pdf) here.
 
 ### Research
 
