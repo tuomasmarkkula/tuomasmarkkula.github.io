@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Aalto University and Helsinki GSE"
+org_name = "University of Hamburg and Hamburg Center for Health Economics"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Tuomas Markkula is a PhD Candidate in Economics at Aalto University and Helsinki GSE"
+description = "Tuomas Markkula is a Postdoctoral Researcher at the University of Hamburg and the Hamburg Center for Health Economics"
 
 ############################
 ## Site Features
@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = false, project = false, public
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tuomas.markkula@aalto.fi"
+# email = "tuomas.markkula@aalto.fi"
 # phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ekonominaukio 1", city = "Espoo", postcode = "02150", country = "Finland", country_code = "FI"}
+address = {street = "Esplanade 36", city = "Hamburg", postcode = "20354", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
