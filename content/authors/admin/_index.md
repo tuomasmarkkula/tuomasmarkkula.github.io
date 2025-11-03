@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Aalto University and Helsinki GSE
-    year: 2025 (Expected)
+    year: 2025
 
 
 # Social/Academic Networking
