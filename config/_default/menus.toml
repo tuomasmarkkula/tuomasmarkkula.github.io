@@ -18,10 +18,10 @@
 #     url = "#working-papers"
 #     weight = 30
 
- [[main]]
-    name = "Job market paper"
-    url = "files/markkula_JMP.pdf"
-    weight = 30
+ # [[main]]
+ #   name = "Job market paper"
+ #  url = "files/markkula_JMP.pdf"
+ #  weight = 30
 
 [[main]]
     name = "Teaching"
