@@ -72,7 +72,7 @@ I am a Postdoctoral Researcher at the [University of Hamburg](https://www.wiso.u
 
 I work on industrial organization, health economics, and public economics. Currently, I use individual-level administrative data and structural models to study markets with public and private healthcare providers. 
 
-Contact information: lauri.markkula@uni-hamburg.de. Find my [CV](https://tuomasmarkkula.github.io/files/cv.pdf) here.
+Contact information: tuomas.markkula@uni-hamburg.de. Find my [CV](https://tuomasmarkkula.github.io/files/cv.pdf) here.
 
 ### Research
 
